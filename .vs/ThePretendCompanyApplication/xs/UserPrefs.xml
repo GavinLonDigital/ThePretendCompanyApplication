@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8F9E0ABE-9F19-4FFE-9C02-7281518D6AD4}|Default">
+  <MonoDevelop.Ide.ItemProperties.ThePretendCompanyApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThePretendCompanyApplication/Program.cs">
+    <Files>
+      <File FileName="ThePretendCompanyApplication/Program.cs" Line="47" Column="40" />
+      <File FileName="TCPData/Employee.cs" />
+      <File FileName="TCPData/Department.cs" />
+      <File FileName="TCPData/Data.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ThePretendCompanyApplication" expanded="True">
+            <Node name="TCPData" expanded="True" />
+            <Node name="TCPExtensions" expanded="True" />
+            <Node name="ThePretendCompanyApplication" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
