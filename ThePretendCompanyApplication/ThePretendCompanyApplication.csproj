@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TCPData\TCPData.csproj" />
-    <ProjectReference Include="..\TCPExtensions\TCPExtensions.csproj" />
+    <ProjectReference Include="..\TCPData\TPCData.csproj" />
+    <ProjectReference Include="..\TCPExtensions\TPCExtensions.csproj" />
   </ItemGroup>
 </Project>

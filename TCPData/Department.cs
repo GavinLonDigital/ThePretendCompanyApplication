@@ -1,5 +1,5 @@
 ﻿using System;
-namespace TCPData
+namespace TPCData
 {
     public class Department
     {
