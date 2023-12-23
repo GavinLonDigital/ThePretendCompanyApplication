@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TCPExtensions
+namespace TPCExtensions
 {
     public static class Extension
     {

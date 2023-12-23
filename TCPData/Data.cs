@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TCPData
+namespace TPCData
 {
     public static class Data
     {

@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.808.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePretendCompanyApplication", "ThePretendCompanyApplication\ThePretendCompanyApplication.csproj", "{8F9E0ABE-9F19-4FFE-9C02-7281518D6AD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThePretendCompanyApplication", "ThePretendCompanyApplication\ThePretendCompanyApplication.csproj", "{8F9E0ABE-9F19-4FFE-9C02-7281518D6AD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPData", "TCPData\TCPData.csproj", "{3BDFB47A-4FAC-428F-AF5C-0975532AC47E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TPCData", "TCPData\TPCData.csproj", "{3BDFB47A-4FAC-428F-AF5C-0975532AC47E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPExtensions", "TCPExtensions\TCPExtensions.csproj", "{A0BEB94B-1583-4CF0-A11F-613B9A7F83E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TPCExtensions", "TCPExtensions\TPCExtensions.csproj", "{A0BEB94B-1583-4CF0-A11F-613B9A7F83E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
